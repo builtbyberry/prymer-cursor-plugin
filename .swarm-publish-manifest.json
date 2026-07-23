@@ -1,0 +1,15 @@
+[
+    ".cursor-plugin/marketplace.json",
+    "README.md",
+    "plugins/prymer/.cursor-plugin/plugin.json",
+    "plugins/prymer/LICENSE",
+    "plugins/prymer/README.md",
+    "plugins/prymer/mcp.json",
+    "plugins/prymer/rules/prymer.mdc",
+    "plugins/prymer/skills/prymer/SKILL.md",
+    "plugins/prymer/skills/prymer/reference/capture-modes.md",
+    "plugins/prymer/skills/prymer/reference/curation.md",
+    "plugins/prymer/skills/prymer/reference/dispatch.md",
+    "plugins/prymer/skills/prymer/reference/handoff.md",
+    "plugins/prymer/skills/prymer/reference/tools.md"
+]

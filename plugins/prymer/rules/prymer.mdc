@@ -42,6 +42,6 @@ On a Project, Prymer reviews and the agent edits: a human's channel into the wor
 - **Trust the runtime `guidance`** field over anything written here — capture mode is resolved live and can change.
 - **`promote_context_to_record` only on explicit user intent.**
 
-Connect a tool to Prymer at `https://swarmplatform.cloud/mcp/prymer` (browser OAuth on first use; no token to copy).
+Connect a tool to Prymer at `https://prymer.app/mcp/prymer` (browser OAuth on first use; no token to copy).
 
 Licensed under Apache-2.0. The hosted Prymer service has its own terms; "Prymer" is a trademark.

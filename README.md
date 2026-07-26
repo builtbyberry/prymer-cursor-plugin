@@ -1,6 +1,6 @@
 # Prymer — Cursor plugin marketplace
 
-The Cursor plugin marketplace for [Prymer](https://swarmplatform.cloud), the shared context bus. Installing the `prymer` plugin connects the hosted Prymer MCP server and adds the always-applied project rule that teaches the load-at-start / checkpoint-at-end ritual.
+The Cursor plugin marketplace for [Prymer](https://prymer.app), the shared context bus. Installing the `prymer` plugin connects the hosted Prymer MCP server and adds the always-applied project rule that teaches the load-at-start / checkpoint-at-end ritual.
 
 ## Install
 

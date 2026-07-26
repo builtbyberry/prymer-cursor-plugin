@@ -4,7 +4,7 @@ Connects this project to Prymer, the shared context bus, and teaches Cursor the 
 
 ## What is inside
 
-- `mcp.json` — connects the hosted Prymer MCP server at `https://swarmplatform.cloud/mcp/prymer` (browser sign-in on install; no token to copy).
+- `mcp.json` — connects the hosted Prymer MCP server at `https://prymer.app/mcp/prymer` (browser sign-in on install; no token to copy).
 - `rules/prymer.mdc` — the always-applied project rule carrying the ritual. Cursor plugins bundle rules, not a `SessionStart` hook, because Cursor's hook context-injection does not currently reach the agent.
 - `skills/prymer/` — the Prymer skill: how to use the tools well (loading, checkpointing, curation, and handoffs).
 

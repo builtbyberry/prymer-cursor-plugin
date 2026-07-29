@@ -1,6 +1,6 @@
 {
     "name": "prymer",
-    "version": "0.10.0",
+    "version": "0.11.0",
     "description": "Prymer shared context bus \u2014 connects the hosted Prymer MCP server and teaches the load-at-start / checkpoint-at-end ritual via an always-applied project rule, plus the skill for loading, checkpointing, onboarding, curation, and handoffs.",
     "author": {
         "name": "Prymer",

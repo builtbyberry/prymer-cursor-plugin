@@ -4,15 +4,9 @@ The Cursor plugin marketplace for [Prymer](https://prymer.app), the shared conte
 
 ## Install
 
-In Cursor, go to Dashboard → Settings → Plugins → Team Marketplaces → Import, and paste this repo:
+Cursor also scans ~/.cursor/plugins/local on startup for locally-installed plugins: copy the unzipped prymer folder to ~/.cursor/plugins/local/prymer, then restart Cursor (or run "Developer: Reload Window").
 
-```
-builtbyberry/prymer-cursor-plugin
-```
-
-Then install the `prymer` plugin from the imported marketplace.
-
-Downloaded this as a zip instead? Cursor also scans ~/.cursor/plugins/local on startup for locally-installed plugins: copy the unzipped prymer folder to ~/.cursor/plugins/local/prymer, then restart Cursor (or run "Developer: Reload Window"). Or push the extracted folder to a git repo you control and import that URL the same way.
+Or push this extracted folder to a git repo you control, then in Cursor go to Dashboard → Settings → Plugins → Team Marketplaces → Import and paste that repo's URL. Then install the `prymer` plugin from the imported marketplace.
 
 Cursor opens Prymer in your browser to authorize on install — no token to copy.
 

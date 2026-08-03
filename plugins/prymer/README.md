@@ -10,9 +10,9 @@ Connects this project to Prymer, the shared context bus, and teaches Cursor the 
 
 ## Install
 
-Cursor also scans ~/.cursor/plugins/local on startup for locally-installed plugins: copy the unzipped prymer folder to ~/.cursor/plugins/local/prymer, then restart Cursor (or run "Developer: Reload Window").
+Fastest — no download. In Cursor, go to Dashboard → Settings → Plugins → Team Marketplaces → Import, and paste this repo: `builtbyberry/prymer-cursor-plugin`. Then install the `prymer` plugin from the imported marketplace.
 
-Or push this extracted folder to a git repo you control, then in Cursor go to Dashboard → Settings → Plugins → Team Marketplaces → Import and paste that repo's URL. Then install the `prymer` plugin from the imported marketplace.
+Downloaded this as a zip instead? Cursor also scans ~/.cursor/plugins/local on startup for locally-installed plugins: copy the unzipped prymer folder to ~/.cursor/plugins/local/prymer, then restart Cursor (or run "Developer: Reload Window"). Or push the extracted folder to a git repo you control and import that URL the same way.
 
 On install, Cursor opens Prymer in your browser to authorize — no token to copy.
 
